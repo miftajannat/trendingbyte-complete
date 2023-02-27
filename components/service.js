@@ -22,7 +22,7 @@ const Services = () => {
                       <div className="flex flex-col">
                         <div className="w-[70px] h-[70px] bg-gray-900 flex items-center justify-center rounded-full">
                         {/* <div className="box-border rounded-full"> */}
-                          <Image src={ service.image} width={40} height={40} alt={service.name1} />
+                          <img src={ service.image} width={40} height={40} alt={service.name1} />
                         </div>
                         <div className="flex flex-col my-8">
                         <p className="text-white text-xl font-bold">

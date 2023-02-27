@@ -8,16 +8,16 @@ const Hero = () => {
           <div key={hero.id}>
             <div className="flex flex-col md:flex-row">
               <div class="flex flex-col items-start md:flex-row md:items-end">
-                <div class="pt-20 md:w-1/2">
-                  <h1 class="font-bold text-blue-400 text-6xl py-5">
+                <div class="pt-20 ">
+                  <h1 class="font-bold text-blue-400 text-5xl py-5">
                     {hero.title}
                   </h1>
                   <div class="w-full md:w-9/12">
-                    <p class="text-base text-gray-600">
+                    <p class="text-xl text-gray-400">
                       {hero.description}
                     </p>
                   </div>
-                  <div class="mt-8 md:mt-16">
+                  <div class="mt-8 ">
                     <form class="flex flex-col">
                       <input
                         class="w-full md:w-64 p-3"
