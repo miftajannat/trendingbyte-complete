@@ -52,7 +52,7 @@ const Testimonial = () => {
   }
 
   return (
-    <section className="py-16">
+    <section className="pt-20">
       <div className="container mx-auto">
       <div class="md:max-w-lg mx-auto text-center mb-8">
           <h2 class="mb-4 font-heading font-semibold text-blue-500 text-6xl ">
