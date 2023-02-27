@@ -1,49 +1,55 @@
 const serviceData = [
     {
         id: 6,
-        name: "UI/Ux Consultancy",
+        name1: "Web",
+        name2:"Development",
         description:
-          "NetTracking is a very powerful Web 2.0 site search engine allows you to find email allerts",
+          "Web development - We offer customized website development solutions to cater to your business needs.",
         image: "https://miro.medium.com/max/640/1*uRSvNkEaVb4aAMVV9UXhoQ.webp",
         url: "https://hridoybuffy.medium.com/a-paper-rocked-the-deep-learning-world-in-december-2015-b24b6a2316f4",
       },
     {
         id: 5,
-        name: "UI/Ux Consultancy",
+        name1: "Software",
+        name2:"Development",
         description:
-          "NetTracking is a very powerful Web 2.0 site search engine allows you to find email allerts",
+          "Software development - We provide tailored software development solutions to help you streamline your business operations.s",
         image: "https://miro.medium.com/max/640/1*uRSvNkEaVb4aAMVV9UXhoQ.webp",
         url: "https://hridoybuffy.medium.com/a-paper-rocked-the-deep-learning-world-in-december-2015-b24b6a2316f4",
       },
     {
         id: 4,
-        name: "UI/Ux Consultancy",
+        name1: "UI/Ux",
+        name2:"Consultancy",
         description:
-          "NetTracking is a very powerful Web 2.0 site search engine allows you to find email allerts",
+          "UI/UX consultancy - We offer consultancy services to help you design an exceptional user interface and user experience for your digital products.",
         image: "https://miro.medium.com/max/640/1*uRSvNkEaVb4aAMVV9UXhoQ.webp",
         url: "https://hridoybuffy.medium.com/a-paper-rocked-the-deep-learning-world-in-december-2015-b24b6a2316f4",
       },
     {
         id: 3,
-        name: "UI/Ux Consultancy",
+        name1: "Chrome Extension",
+        name2:"Development",
         description:
-          "NetTracking is a very powerful Web 2.0 site search engine allows you to find email allerts",
+          "Chrome extension development - We develop Chrome extensions that enhance the functionality of your browser and improve your browsing experience.",
         image: "https://miro.medium.com/max/640/1*uRSvNkEaVb4aAMVV9UXhoQ.webp",
         url: "https://hridoybuffy.medium.com/a-paper-rocked-the-deep-learning-world-in-december-2015-b24b6a2316f4",
       },
     {
         id: 2,
-        name: "UI/Ux Consultancy",
+        name1: "ios App",
+        name2:"Development",
         description:
-          "NetTracking is a very powerful Web 2.0 site search engine allows you to find email allerts",
+          "iOS app development - Our team of experts designs and develops iOS applications with a focus on delivering an outstanding user experience.",
         image: "https://miro.medium.com/max/640/1*uRSvNkEaVb4aAMVV9UXhoQ.webp",
         url: "https://hridoybuffy.medium.com/a-paper-rocked-the-deep-learning-world-in-december-2015-b24b6a2316f4",
       },
     {
       id: 1,
-      name: "UI/Ux Consultancy",
+      name1: "Android App",
+      name2:"Development",
       description:
-        "NetTracking is a very powerful Web 2.0 site search engine allows you to find email allerts",
+        "Android app development - We develop feature-rich and user-friendly Android applications for your business.",
       image: "https://miro.medium.com/max/640/1*uRSvNkEaVb4aAMVV9UXhoQ.webp",
       url: "https://hridoybuffy.medium.com/a-paper-rocked-the-deep-learning-world-in-december-2015-b24b6a2316f4",
     },

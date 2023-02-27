@@ -4,6 +4,7 @@ import { useState } from "react";
 
 import img from "../public/media/trendingbyte.jpg"
 import navmenu from "../public/media/navmenu.svg"
+import Pricing from "./pricing";
 
 function NavBar() {
   const [navbar, setNavbar] = useState(false);

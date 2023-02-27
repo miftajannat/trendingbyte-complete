@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Contact = () => {
   return (
-    <footer className="footer">
+    <footer className="footer pt-20">
       <div className="bg-gray-800 box-border border-3 border-gray-500 rounded-2xl">
         <div className=" ">
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 p-12">

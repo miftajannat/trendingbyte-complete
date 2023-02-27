@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "next/image";
 import BasicPricing from "./basicpricing";
 import StandardPricing from "./standardpricing";
 import EcommercePricing from "./ecommercepricing";
@@ -17,12 +16,10 @@ const Pricing = () => {
             sint. Velit officia consequat duis enim.
           </p>
         </div>
-
         <div className="grid md:grid-cols-3 sm:grid-cols-1 gap-8 ">
- <BasicPricing />
-  <EcommercePricing />
+          <BasicPricing />
+          <EcommercePricing />
           <StandardPricing />
-
         </div>
       </div>
     </section>
