@@ -29,10 +29,10 @@ const Project = () => {
                   />
                   <div class="absolute bottom-0  p-2">
                     <div class="md:p-5 p-3 rounded-md ">
-                      <h2 class="mb-2  font-bold text-2xl uppercase text-gray-100 tracking-px">
+                      <h2 class="mb-2  font-bold text-4xl uppercase text-blue-500 tracking-px">
                         {project.title}
                       </h2>
-                      <p class="text-gray-300 ">{project.description}</p>
+                      {/* <p class="text-blue-500 ">{project.description}</p> */}
                     </div>
                   </div>
                 </div>

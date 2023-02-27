@@ -14,7 +14,7 @@ const PopularTag = () => {
           {tagData.map((tag) => (
             <div key={tag.id}>
             <div className="bg-gray-800 rounded-xl box-border border-2 border-gray-700 hover:border-blue-600 hover: shadow-lg hover:shadow-blue-500/50 hover:scale-110 transition ease-out duration-500 w-auto">
-              <div className="flex  px-6">
+              <div className="flex  px-4">
                 <p className="py-4">
                 <img className="w-8 h-8 rounded-full"
                   src={tag.image }

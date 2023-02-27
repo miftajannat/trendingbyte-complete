@@ -16,15 +16,13 @@ const Testimonial = () => {
         {testimonialData.map((testimonial) => (
           <>
             <div key={testimonial.id}>
-              <div>
-                <div className="bg-gray-800 box-border border-2 border-gray-700 rounded-lg w-[320px] ">
+              <div className="">
+                <div className="bg-gray-800 box-border border-2 border-gray-700 rounded-lg w-[320px]">
                   <div>
                     <div className="flex">
                       <p className="px-4 py-5">
                         <img
-                          src={
-                            testimonial.image
-                          }
+                          src={testimonial.image}
                           alt="avatar"
                           className="w-10 h-10 rounded-full"
                           width={50}
